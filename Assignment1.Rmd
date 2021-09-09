@@ -3,15 +3,15 @@ title: "Can R Notebook help with reproducibility?"
 output: html_notebook
 ---
 
-Introduction
+# Introduction
 
-Short literature review
+# Literature review
 
-Discussion
+# Discussion
 
-Conclusion
+# Conclusion
 
-References
+# References
 
 Se litt på:
 
