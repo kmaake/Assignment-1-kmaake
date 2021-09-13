@@ -5,6 +5,8 @@ output: html_notebook
 
 # Introduction
 
+Hei dette er høy
+
 # Literature review
 
 # Discussion
@@ -22,9 +24,3 @@ Løse dette alle problemer med reproduserbarhet?
 Info:
 
 Replikerbarhet: Docke: Virtuell datamaskin og operativsystem og bibliotek
-
-R
-
-R pakken som blir brukt
-
-R notebook og datafiler
