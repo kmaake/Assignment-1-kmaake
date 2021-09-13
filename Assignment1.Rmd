@@ -1,26 +1,18 @@
 ---
 title: "Can R Notebook help with reproducibility?"
-output: html_notebook
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
 ---
 
 # Introduction
 
-Hei dette er høy
-
 # Literature review
+
 
 # Discussion
 
 # Conclusion
 
 # References
-
-Se litt på:
-
-Gentleman & Lang (2004?) Compatible Compendiums
-
-Løse dette alle problemer med reproduserbarhet?
-
-Info:
-
-Replikerbarhet: Docke: Virtuell datamaskin og operativsystem og bibliotek
