@@ -1,8 +1,8 @@
 ---
 title: "Can R Notebook help with reproducibility?"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
   word_document: default
 bibliography: references.bib
 ---
