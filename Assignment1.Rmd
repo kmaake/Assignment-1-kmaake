@@ -22,13 +22,7 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 # Discussion
 
 
-
-
-<<<<<<< HEAD
 # Discussion 
-=======
-# Discussion
-
 
 # Conclusion
 
