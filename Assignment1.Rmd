@@ -23,27 +23,8 @@ In order for reproducibility to come more into the spotlight, there must be more
 
 The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others. 
 
-
-
-
-
-
-
-
-<<<<<<< HEAD
-
-
 # Discussion
 
 # Conclusion
 
 # References
-=======
-# Discussion 
-
-# Conclusion
-
-# References
-
-
->>>>>>> 9770e2e0c2051bc3a3d7e25bad4bf19c771d2520
