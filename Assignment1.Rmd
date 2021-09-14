@@ -8,9 +8,17 @@ output:
 
 # Introduction
 
-This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a criteria for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility. 
+This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a standard for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility. 
 
 # Literature review
+
+
+
+
+
+
+
+
 
 
 
@@ -19,19 +27,3 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 # Conclusion
 
 # References
-
-Se litt på:
-
-Gentleman & Lang (2004?) Compatible Compendiums
-
-Løse dette alle problemer med reproduserbarhet?
-
-Info:
-
-Replikerbarhet: Docke: Virtuell datamaskin og operativsystem og bibliotek
-
-R
-
-R pakken som blir brukt
-
-R notebook og datafiler
