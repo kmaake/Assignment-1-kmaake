@@ -12,27 +12,20 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 
 # Literature review
 
+
+
+
+
+
+
+
+
+
+
 # Discussion
 
 # Conclusion
 
 # References
 
-Se litt på:
 
-Gentleman & Lang (2004?) Compatible Compendiums
-
-<<<<<<< HEAD
-Løse dette alle problemer med reproduserbarhet
-
-# Discussion
-
-Info:
-
-Replikerbarhet: Docke: Virtuell datamaskin og operativsystem og bibliotek
-
-R
-
-R pakken som blir brukt
-
-R notebook og datafiler
