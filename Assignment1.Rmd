@@ -22,7 +22,7 @@ A critic problem in reproducibility in many cases is that the computer code isnÂ
 
 In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng said "*The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)*".
 
-# Discussion
+# Discussion hei
 
 # Conclusion
 
