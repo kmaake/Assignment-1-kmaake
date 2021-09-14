@@ -4,31 +4,30 @@ output:
   html_document: default
   pdf_document: default
   word_document: default
+bibliography: references.bib
 ---
 
 # Introduction
 
-
-This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a standard for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility. 
+This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a standard for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility.
 
 # Literature review
+
 According to the article Reproducible Research in Computational Science written by Roger D. Peng is that reproducibility research has an achievable minimum standard. This standard for reproducibility requires that the data and the computer code are published for others.
 
-A goal for the reproducibility standard is to fill the hole between the replication of a study and where there is no replication in the scientific evidence-generating. Between the replication of study and no replication is it opportunities, where a study could be more reproducibility than the other. This depends on which data and code are made available.  
+A goal for the reproducibility standard is to fill the hole between the replication of a study and where there is no replication in the scientific evidence-generating. Between the replication of study and no replication is it opportunities, where a study could be more reproducibility than the other. This depends on which data and code are made available.
 
-The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does.
-A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
+The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does. A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
 
-In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says “The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)”.
+In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says "The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)" [@peng2011].
 
-The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others. 
+The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others.
 
-In cases there it is questionable results, will reproducibility be crucial to track the errors, and in cases there are interesting results can reproducibility largely find these of the results. 
+In cases there it is questionable results, will reproducibility be crucial to track the errors, and in cases there are interesting results can reproducibility largely find these of the results.
 
-One of the biggest barriers in reproducibility research is the deeply lack of the ingrained culture. Another barrier that is important is the lack of an integrated infrastructure for distributing to others in reproducibility. 
+One of the biggest barriers in reproducibility research is the deeply lack of the ingrained culture. Another barrier that is important is the lack of an integrated infrastructure for distributing to others in reproducibility.
 
-In the end of the article, Roger D. Peng concluded that the field of science will not change overnight, but with reproducibility it will make a change by doing it a routine and to be in the forefront. 
-
+In the end of the article, Roger D. Peng concluded that the field of science will not change overnight, but with reproducibility it will make a change by doing it a routine and to be in the forefront.
 
 # Discussion
 
