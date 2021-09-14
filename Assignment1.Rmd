@@ -22,7 +22,10 @@ Se litt på:
 
 Gentleman & Lang (2004?) Compatible Compendiums
 
-Løse dette alle problemer med reproduserbarhet?
+<<<<<<< HEAD
+Løse dette alle problemer med reproduserbarhet
+
+# Discussion
 
 Info:
 
