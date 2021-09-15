@@ -19,7 +19,7 @@ A goal for the reproducibility standard is to fill the hole between the replicat
 
 The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does. A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
 
-In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says "The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)" [@peng2011]. @knuth1992
+In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says "The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)" [@peng2011].
 
 The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others.
 
@@ -39,11 +39,8 @@ In the end of the article, Roger D. Peng concluded that the field of science wil
 sessionInfo(package=NULL)
 ```
 
-
 # Discussion
 
 # Conclusion
 
 # References
-
-
