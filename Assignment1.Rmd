@@ -13,6 +13,36 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 
 # Literature review
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**"Statistical Analyses and Reproducible Research", by Gentleman and Lang**
+
 > *both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
 
 > ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
