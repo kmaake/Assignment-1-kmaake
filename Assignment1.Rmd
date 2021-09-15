@@ -42,3 +42,9 @@ In the end of the article, Roger D. Peng concluded that the field of science wil
 # Conclusion
 
 # References
+
+
+```{r a code chunk}
+sessionInfo(package=NULL)
+```
+
