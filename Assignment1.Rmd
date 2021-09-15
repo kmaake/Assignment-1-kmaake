@@ -29,6 +29,12 @@ One of the biggest barriers in reproducibility research is the deeply lack of th
 
 In the end of the article, Roger D. Peng concluded that the field of science will not change overnight, but with reproducibility it will make a change by doing it a routine and to be in the forefront.
 
+> *both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
+
+> ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
+
+> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.*
+
 # Discussion
 
 # Conclusion
