@@ -33,7 +33,7 @@ As the main goal presented in the article is to develop a culture that require r
 
 The article makes it clear that even if a analysis is reproducible it does not guarantee the validity, quality and correctness even when it is published to others.
 
-**"Do economics journal archives promote replicable research?", by McCullough.**
+**"Do economics journal archives promote replicable research?", by McCullough 2008**
 
 McCullough's article puts focus on reproducibility and replication in the field of economical studies. In this article the ability to replicate a study is put as the gold standard to evaluate the reliability of a scientific claim, and should be aimed for in all archives. Replicability meaning being able to collect new data and get the same results/conclusions.
 
@@ -77,7 +77,13 @@ R Notebook have the following features:
 
 These feature is what makes the program a working compendium, with well working code and text chunks.
 
-With the listed features R Notebook is a tool to use to be able to produce reproducible papers/studies. On the other hand, one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes to be made.
+With the listed features R Notebook is a tool that can be used to be able to produce reproducible papers/studies. It is still important to keep in mind that one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes not to be made.
+
+To see R Notebook in context with Peng's "Reproducible Research in Computial Science" article, R Notebook can be used as a step to reach the goal of developing a culture that requires reproducibility in computational science. This by giving authors a system to provide data and code for everyone as it connects to free repositories. This proves that R Notebook is a great tool to reach the goals presented in the article, even if it can not guarantee for every paper/study using the software to be reproducible.
+
+*Does authors/scientist take initiative to publish reproducible papers or do they need to be forced?*
+
+Even as the previous question shows that R Notebook can be used as a tool to best publish reproducible papers, McCullough's paper "Do economics journal archives promote replicable research?" proves that some authors might need stricter requirements to follow it through.
 
 # Conclusion
 
