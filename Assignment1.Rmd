@@ -16,14 +16,6 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 According to the article Reproducible Research in Computational Science written by Roger D. Peng is that reproducibility research has an achievable minimum standard. This standard for reproducibility requires that the data and the computer code are published for others.
 
 A goal for the reproducibility standard is to fill the hole between the replication of a study and where there is no replication in the scientific evidence-generating. Between the replication of study and no replication is it opportunities, where a study could be more reproducibility than the other. This depends on which data and code are made available.
-<<<<<<< HEAD
-
-The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does. A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
-
-In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says "The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)".
-
-The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others.
-=======
 
 The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does. A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
 
@@ -37,12 +29,13 @@ One of the biggest barriers in reproducibility research is the deeply lack of th
 
 In the end of the article, Roger D. Peng concluded that the field of science will not change overnight, but with reproducibility it will make a change by doing it a routine and to be in the forefront.
 
+
 > *both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
 
 > ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
 
 > *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.*
->>>>>>> Kine2
+
 
 # Discussion
 
