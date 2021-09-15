@@ -1,8 +1,8 @@
 ---
 title: "Can R Notebook help with reproducibility?"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
   word_document: default
 bibliography: references.bib
 ---
@@ -35,7 +35,7 @@ The article makes it clear that even if a analysis is reproducible it does not g
 
 **"Do economics journal archives promote replicable research?", by McCullough.**
 
-McCullough's article puts focus on reproducibility and replication in the field of economical studies. In this article the ability replicate a stydy is put as the gold standard to evaluate the reliability of a scientific claim, and should be aimed for in all archives. Replicability meaning being able to collect new data and get the same results/conclusions.
+McCullough's article puts focus on reproducibility and replication in the field of economical studies. In this article the ability to replicate a study is put as the gold standard to evaluate the reliability of a scientific claim, and should be aimed for in all archives. Replicability meaning being able to collect new data and get the same results/conclusions.
 
 The article shines light on the fact that long-standing archives of economics do not accustom to reproducibility. And some of those who claim to be data-only archives fail in reality due to authors being in charge of submitting their code and data, but neglecting to do so. In these cases the papers get published regardless as a result of lack of controlling by the journal archives. Meaning there is improvement to be done to the promotion of replicable research.
 
@@ -43,11 +43,13 @@ Additionally, the article shows that editors will defend published work even if 
 
 **"Statistical Analyses and Reproducible Research", by Gentleman and Lang**
 
+In the discussion
+
 > *both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
 
 > ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
 
-> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.* 
+> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.*
 
 ```{r A Code Chunk}
 sessionInfo(package=NULL)
@@ -58,5 +60,3 @@ sessionInfo(package=NULL)
 # Conclusion
 
 # References
-
-
