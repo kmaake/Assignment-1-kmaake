@@ -8,20 +8,19 @@ output:
 
 # Introduction
 
-
-This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a standard for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility. 
+This text will focus on how R Notebook can help with reproducibility. The text is based on reproducibility as a standard for general research being published, as well as reproducibility in the field of economical studies. R Notebook will be discussed as a solution to meet the criteria of reproducibility.
 
 # Literature review
+
 According to the article Reproducible Research in Computational Science written by Roger D. Peng is that reproducibility research has an achievable minimum standard. This standard for reproducibility requires that the data and the computer code are published for others.
 
-A goal for the reproducibility standard is to fill the hole between the replication of a study and where there is no replication in the scientific evidence-generating. Between the replication of study and no replication is it opportunities, where a study could be more reproducibility than the other. This depends on which data and code are made available.  
+A goal for the reproducibility standard is to fill the hole between the replication of a study and where there is no replication in the scientific evidence-generating. Between the replication of study and no replication is it opportunities, where a study could be more reproducibility than the other. This depends on which data and code are made available.
 
-The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does.
-A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
+The reproducibility standard is based on that every calculation experiment has a detailed log of every action that the computer does. A critic problem in reproducibility in many cases is that the computer code isn´t available longer.
 
-In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says “The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)”.
+In order for reproducibility to come more into the spotlight, there must be more contributions from several directions. Journals can have a meaning here. Roger D. Peng says "The journal Biostatistics, for which I am an associate editor, has implemented a policy for encouraging authors of accepted papers to make their work reproducible by others (11)".
 
-The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others. 
+The reproducibility of an analyze cannot guarantee the validity, quality and correctness when it is published to others.
 
 # Discussion
 
