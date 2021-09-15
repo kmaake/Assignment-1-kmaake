@@ -41,13 +41,13 @@ The article shines light on the fact that long-standing archives of economics do
 
 Additionally, the article shows that editors will defend published work even if it is not replicable with the argument of the papers being published before the requirements for data availability. This only showcases the importance of stricter data+code requirements.
 
-**"Statistical Analyses and Reproducible Research", by Gentleman and Lang**
+**"Statistical Analyses and Reproducible Research", by Gentleman and Lang 2004**
 
-In the discussion
+In the discussion on how R notebook can help meet the criteria of reproducibility Gentleman and Lang's definitions on compendium, code chunks and text chunks are used.
 
-> *both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
+> *Compendium is both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
 
-> ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
+> ***code chunks are sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
 
 > *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.*
 
@@ -56,6 +56,28 @@ sessionInfo(package=NULL)
 ```
 
 # Discussion
+
+In the discussion we will focus on three main areas:
+
+1.  Can R Notebook solve the problems surrounding reproducibility?
+2.  
+3.  
+4.  
+
+*Can R Notebook solve the problems surrounding reproducibility?*
+
+To meet the criteria of reproducibility computable documents is a solution. R Notebook is one of the available softwares.
+
+R Notebook have the following features:
+
+1.  Uses R markdown, collects all parts into one document
+2.  Codes goes through sequentially, but can also go through individually
+3.  Uses Latex - making it possible to write mathematics
+4.  Uses pandoc as a transformer - html. pdf. and word.
+
+These feature is what makes the program a working compendium, with well working code and text chunks.
+
+With the listed features R Notebook is a tool to use to be able to produce reproducible papers/studies. On the other hand, one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes to be made.
 
 # Conclusion
 
