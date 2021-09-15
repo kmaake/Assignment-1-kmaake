@@ -1,8 +1,8 @@
 ---
 title: "Can R Notebook help with reproducibility?"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 bibliography: references.bib
 ---
@@ -17,7 +17,7 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 
 > ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
 
-> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading.*
+> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading. @gentleman2007*
 
 ```{r A Code Chunk}
 sessionInfo(package=NULL)
@@ -30,6 +30,3 @@ sessionInfo(package=NULL)
 # References
 
 
-# HEI
-
-HEFHWFKS
