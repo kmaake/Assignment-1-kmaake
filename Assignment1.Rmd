@@ -40,6 +40,19 @@ The article shines light on the fact that long-standing archives of economics do
 
 Additionally, the article shows that editors will defend published work even if it is not replicable with the argument of the papers being published before the requirements for data availability. This only showcases the importance of stricter data+code requirements.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Discussion
 
 # Conclusion
