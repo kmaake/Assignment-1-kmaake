@@ -51,9 +51,6 @@ In the discussion on how R notebook can help meet the criteria of reproducibilit
 
 > *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading*
 
-```{r A Code Chunk}
-sessionInfo(package=NULL)
-```
 
 #Discussion
 
@@ -88,7 +85,10 @@ To see R Notebook in context with Peng's "Reproducible Research in Computial Sci
 
 To showcase R Notebook working as a compendim it can be demonstrated by presenting how code and text chunks works together. Everything written in this document would be a text chunk and the following chunk would be a code chunk:
 
-SESSION INFO FLYTTES HIT
+```{r A code chunk}
+sessionInfo()
+```
+
 
 This code chunk is put in the document to show which packages are being used in R Notebook as it is being written.
 
@@ -110,4 +110,6 @@ This article presents an issue in the field of economical studies regarding publ
 
 The conclusion on the main issue is that R notebooks can help with reproducibility. However, this can not software solve any problems with reproducibility. The reason is that there are to many packages that are included. Another reason for this are human mistakes. Meaning of this is that people can makes mistakes when they use the software, because all the codes that has to be in mind. So, the conclusion is that there are to many factors that plays a role, to could say that R notebooks would solve any problem with reproducibility. Anyways, the software can be helpful with it.
 
+
 # References 
+
