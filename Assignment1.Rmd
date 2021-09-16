@@ -57,14 +57,15 @@ sessionInfo(package=NULL)
 
 # Discussion
 
-In the discussion we will focus on three main areas:
+*This discussion contains three main parts based on the literature review:*
 
 1.  Can R Notebook solve the problems surrounding reproducibility?
-2.  
-3.  
-4.  
 
-*Can R Notebook solve the problems surrounding reproducibility?*
+2.  An example of "Code chunks" and "Text chunks" in R Notebook.
+
+3.  Do authors take imitative to publish reproducible papers or do they need to be forced?
+
+***Can R Notebook solve the problems surrounding reproducibility?***
 
 To meet the criteria of reproducibility computable documents is a solution. R Notebook is one of the available softwares.
 
@@ -75,16 +76,38 @@ R Notebook have the following features:
 3.  Uses Latex - making it possible to write mathematics
 4.  Uses pandoc as a transformer - html. pdf. and word.
 
-These feature is what makes the program a working compendium, with well working code and text chunks.
+These feature is what makes the program a computable document as a working compendium, with working code and text chunks and the ability to transform. A computable document meaning the container for the different elements that make up a document and its computations KILDE. These code chunks being sequences of commands in the programming language R KILDE. With the possibility to the describe the code, the results and their interpretation with text chunks KILDE.
 
 With the listed features R Notebook is a tool that can be used to be able to produce reproducible papers/studies. It is still important to keep in mind that one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes not to be made.
 
 To see R Notebook in context with Peng's "Reproducible Research in Computial Science" article, R Notebook can be used as a step to reach the goal of developing a culture that requires reproducibility in computational science. This by giving authors a system to provide data and code for everyone as it connects to free repositories. This proves that R Notebook is a great tool to reach the goals presented in the article, even if it can not guarantee for every paper/study using the software to be reproducible.
 
-*Does authors/scientist take initiative to publish reproducible papers or do they need to be forced?*
+.
+
+***An example of "Code chunks" and "Text chunks" in R Notebook:***
+
+To showcase R Notebook working as a compendim it can be demonstrated by presenting how code and text chunks works together. Everything written in this document would be a text chunk and the following chunk would be a code chunk:
+
+SESSION INFO FLYTTES HIT
+
+This code chunk is put in the document to show which packages are being used in R Notebook as it is being written.
+
+In more advanced papers code chunks would show how the data is processed and the text chunks would be used to explain the results.
+
+These documents being able to transform to word., pdf, and html. is what makes the compendium a computable document.
+
+.
+
+***Do authors take initiative to publish reproducible papers or do they need to be forced?***
 
 Even as the previous question shows that R Notebook can be used as a tool to best publish reproducible papers, McCullough's paper "Do economics journal archives promote replicable research?" proves that some authors might need stricter requirements to follow it through.
 
+Many archives do not promote reproducibility, as there is proven that an amount of authors do not submit their data and code but their papers are still getting published @mccullough2008. The article also brought up the problem regarding some editors in the archives supporting articles that are not replicable if the authors published it before requirements for data availability.
+
+This article presents an issue in the field of economical studies regarding publishing reproducible and replicable articles. Therefor, it should be set stricter requirements forcing the authors to publish reproducible papers to ensure that not only the once taking the initiative to follow the guidelines do so.
+
 # Conclusion
+
+
 
 # References
