@@ -65,6 +65,6 @@ Examples on code chunks and text chunks. Gentleman and Lang have written an arti
 
 # Conclusion
 
-The conclusion on the main issue is that R notebooks can help with reproducibility. However, can not this software solve any problems with reproducibility. The reason is that there are to many packages that are included. Another reason for this are human errors. Meaning of this is that people can makes mistakes when they use a software, where there is many codes that a human has to have in mind. So, the conclusion is that there are to many factors that plays a role on R notebooks, to could say that R notebooks would solve any problem with reproducibility. Anyways, the software can be helpful. 
+The conclusion on the main issue is that R notebooks can help with reproducibility. However, this can not software solve any problems with reproducibility. The reason is that there are to many packages that are included. Another reason for this are human mistakes. Meaning of this is that people can makes mistakes when they use the software, because all the codes that has to be in mind. So, the conclusion is that there are to many factors that plays a role, to could say that R notebooks would solve any problem with reproducibility. Anyways, the software can be helpful with it.
 
 # References
