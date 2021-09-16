@@ -45,24 +45,23 @@ Additionally, the article shows that editors will defend published work even if 
 
 In the discussion on how R notebook can help meet the criteria of reproducibility Gentleman and Lang's definitions on compendium, code chunks and text chunks are used.
 
-> *Compendium is both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.*
+> ***Compendium is both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.***
 
-> *code chunks are sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.*
+> ***Code chunks are sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.***
 
-> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading*
+> ***Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading***
 
+# Discussion
 
-#Discussion
+This discussion contains three main parts based on the literature review:
 
-*This discussion contains three main parts based on the literature review:*
+1.  *Can R Notebook solve the problems surrounding reproducibility?*
 
-1.  Can R Notebook solve the problems surrounding reproducibility?
+2.  *An example of "Code chunks" and "Text chunks" in R Notebook.*
 
-2.  An example of "Code chunks" and "Text chunks" in R Notebook.
+3.  *Do authors take imitative to publish reproducible papers or do they need to be forced?*
 
-3.  Do authors take imitative to publish reproducible papers or do they need to be forced?
-
-***Can R Notebook solve the problems surrounding reproducibility?***
+**Can R Notebook solve the problems surrounding reproducibility?**
 
 To meet the criteria of reproducibility computable documents is a solution. R Notebook is one of the available softwares.
 
@@ -81,14 +80,13 @@ To see R Notebook in context with Peng's "Reproducible Research in Computial Sci
 
 .
 
-***An example of "Code chunks" and "Text chunks" in R Notebook:***
+**An example of "Code chunks" and "Text chunks" in R Notebook:**
 
 To showcase R Notebook working as a compendim it can be demonstrated by presenting how code and text chunks works together. Everything written in this document would be a text chunk and the following chunk would be a code chunk:
 
 ```{r A code chunk}
 sessionInfo()
 ```
-
 
 This code chunk is put in the document to show which packages are being used in R Notebook as it is being written.
 
@@ -98,7 +96,7 @@ These documents being able to transform to word., pdf, and html. is what makes t
 
 .
 
-***Do authors take initiative to publish reproducible papers or do they need to be forced?***
+**Do authors take initiative to publish reproducible papers or do they need to be forced?**
 
 Even as the previous question shows that R Notebook can be used as a tool to best publish reproducible papers, McCullough's paper "Do economics journal archives promote replicable research?" proves that some authors might need stricter requirements to follow it through.
 
@@ -110,6 +108,4 @@ This article presents an issue in the field of economical studies regarding publ
 
 The conclusion on the main issue is that R notebooks can help with reproducibility. However, this can not software solve any problems with reproducibility. The reason is that there are to many packages that are included. Another reason for this are human mistakes. Meaning of this is that people can makes mistakes when they use the software, because all the codes that has to be in mind. So, the conclusion is that there are to many factors that plays a role, to could say that R notebooks would solve any problem with reproducibility. Anyways, the software can be helpful with it.
 
-
-# References 
-
+# References
