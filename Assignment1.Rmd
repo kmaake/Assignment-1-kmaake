@@ -41,27 +41,70 @@ The article shines light on the fact that long-standing archives of economics do
 
 Additionally, the article shows that editors will defend published work even if it is not replicable with the argument of the papers being published before the requirements for data availability. This only showcases the importance of stricter data+code requirements.
 
+
+
+
+
+
+
+
+
+
+
 ```{r A Code Chunk}
 sessionInfo(package=NULL)
 ```
 
 # Discussion
 
-***Do R notebooks solve the problem with reproducibility?***
 
-According to the article from Peng is that papers need codes and data to let a document be reproducibility. In R notebooks we can write down codes and data, and then the document will be reproducibility. R notebooks can not solve the problem with reproducibility, but it can be a help for it. This is because of all of the packages that can be installed in R notebooks. And also on the other side we have the human errors, where humans can do mistakes. Then if we make small mistakes in R notebooks, then the document will not be reproducibility.
 
-***Examples on "code chunks" and "text chunks" in R notebook?***
 
-In the discussion
 
-Examples on code chunks and text chunks. Gentleman and Lang have written an article about code chunks and text chunks. **"Statistical Analyses and Reproducible Research", by Gentleman and Lang**
 
-> *Compendium as both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection. @gentleman2004*
 
-> ***sequences of commands in some programming language such as R or Perl. Code chunks are intended to be evaluated according to the language in which they are written. These perform the computations needed to produce the appropriate output within the paper, and also to produce intermediate results used across different code chunks.*** [@gentleman2004]
 
-> *Text chunks describe the problem, the code, the results and often their interpretation. Text chunks are intended to be formatted for reading. @gentleman2004*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Conclusion
 
