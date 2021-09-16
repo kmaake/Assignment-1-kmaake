@@ -13,7 +13,7 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 
 # Literature review
 
-**"Reproducible Research in Computational Science", by Peng 2011.**
+**"Reproducible Research in Computational Science", by @peng2011.**
 
 Roger D. Peng presents reproducibility as the bare minimum standard when evaluating all published scientific findings. The reasoning being the change in technology leading to large public data sets/databases used by multiple scientist to produce independent research. This change making it harder to investigate the credibility of different studies/papers.
 
@@ -33,7 +33,7 @@ As the main goal presented in the article is to develop a culture that require r
 
 The article makes it clear that even if a analysis is reproducible it does not guarantee the validity, quality and correctness even when it is published to others.
 
-**"Do economics journal archives promote replicable research?", by McCullough 2008**
+**"Do economics journal archives promote replicable research?", by @mccullough2008.**
 
 McCullough's article puts focus on reproducibility and replication in the field of economical studies. In this article the ability to replicate a study is put as the gold standard to evaluate the reliability of a scientific claim, and should be aimed for in all archives. Replicability meaning being able to collect new data and get the same results/conclusions.
 
@@ -41,7 +41,7 @@ The article shines light on the fact that long-standing archives of economics do
 
 Additionally, the article shows that editors will defend published work even if it is not replicable with the argument of the papers being published before the requirements for data availability. This only showcases the importance of stricter data+code requirements.
 
-**"Statistical Analyses and Reproducible Research", by Gentleman and Lang 2004**
+**"Statistical Analyses and Reproducible Research", by @gentleman2004.**
 
 In the discussion on how R notebook can help meet the criteria of reproducibility Gentleman and Lang's definitions on compendium, code chunks and text chunks are used.
 
@@ -100,7 +100,7 @@ These documents being able to transform to word., pdf, and html. is what makes t
 
 Even as the previous question shows that R Notebook can be used as a tool to best publish reproducible papers, McCullough's paper "Do economics journal archives promote replicable research?" proves that some authors might need stricter requirements to follow it through.
 
-Many archives do not promote reproducibility, as there is proven that an amount of authors do not submit their data and code but their papers are still getting published @mccullough2008. The article also brought up the problem regarding some editors in the archives supporting articles that are not replicable if the authors published it before requirements for data availability.
+Many archives do not promote reproducibility, as there is proven that an amount of authors do not submit their data and code but their papers are still getting published [@mccullough2008]. The article also brought up the problem regarding some editors in the archives supporting articles that are not replicable if the authors published it before requirements for data availability.
 
 This article presents an issue in the field of economical studies regarding publishing reproducible and replicable articles. Therefor, it should be set stricter requirements forcing the authors to publish reproducible papers to ensure that not only the once taking the initiative to follow the guidelines do so.
 
