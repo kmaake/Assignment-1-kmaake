@@ -29,13 +29,13 @@ As the main goal presented in the article is to develop a culture that require r
 
 1.  Authors make their data and code available for everyone by using the free code repositories. Such as Github and SourceForge.
 
-    a.  This would make it possible to provide a minimum code as online material which would be informative, and could be used to reveal any potential problems.
+    -   This would make it possible to provide a minimum code as online material which would be informative, and could be used to reveal any potential problems.
 
-    b.  The next step would be to be able to provide datasets in durable non-proprietary format, but this would require additional costs.\
+    -   The next step would be to be able to provide datasets in durable non-proprietary format, but this would require additional costs.\
 
 2.  The scientific community creates a single place for authors in all fields to make their studies reproducible.
 
-    a.  In order to accomplish this the community would need to create a common DataMed central, CodeMed central and PubMed central where publishers/authors data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
+    -   In order to accomplish this the community would need to create a common DataMed central, CodeMed central and PubMed central where publishers/authors data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
 
 The article makes it clear that even if a analysis is reproducible it does not guarantee the validity, quality and correctness even when it is published to others.
 
@@ -115,10 +115,6 @@ This article presents an issue in the field of economical studies regarding publ
 Susann:
 
 To conclude R Notebook is a computable document that has the features to be used as a tool to help with reproducibility. It gives authors support to publish reproducible research, but it can not guarantee it due to the possibility for human errors. For authors to be motivated to use the program, it would be efficient to have stricter data and code requirements in publishing archives. This would lead to the authors being forced to use programs such as R Notebook more actively and would be a help to the issue of reproducibility.
-
-Kine:
-
-The conclusion on the main issue is that R notebooks can help with reproducibility. However, this can not software solve any problems with reproducibility. The reason is that there are to many packages that are included. Another reason for this are human mistakes. Meaning of this is that people can makes mistakes when they use the software, because all the codes that has to be in mind. So, the conclusion is that there are to many factors that plays a role, to could say that R notebooks would solve any problem with reproducibility. Anyways, the software can be helpful with it.
 
 # References
 
