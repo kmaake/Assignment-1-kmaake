@@ -16,14 +16,16 @@ This text will focus on how R Notebook can help with reproducibility. The text i
 The following articles explained in this part is to be used in the discussion:
 
 1.  *"Reproducible Research in Computational Science"*
+
 2.  *"Do economics journal archives promote replicable research?"*
+
 3.  *"Statistical Analysis and Reproducible Research"*
 
 **"Reproducible Research in Computational Science", by @peng2011.**
 
-Roger D. Peng presents reproducibility as the bare minimum standard when evaluating all published scientific findings. The reasoning being the change in technology leading to large public data sets/databases used by multiple scientist to produce independent research. This change making it harder to investigate the credibility of different studies/papers.
+Roger D. Peng presents reproducibility as the bare minimum standard when evaluating all published scientific findings. The reasoning being the change in technology leading to large public data sets used by multiple scientist to produce independent research. This change making it harder to investigate the credibility of different papers.
 
-According to Peng, the studies/papers needs to have data and code public to make it possible for it to be reproducible. An issue following this requirement is that the computer code often is not available due to software systems and packages being private.
+According to Peng, the papers needs to have data and code public to make it possible for it to be reproducible. An issue following this requirement is that the computer code often is not available due to software systems and packages being private.
 
 As the main goal presented in the article is to develop a culture that require reproducibility for computational science to be publish, two solutions are mentioned:
 
@@ -35,9 +37,9 @@ As the main goal presented in the article is to develop a culture that require r
 
 2.  The scientific community creates a single place for authors in all fields to make their studies reproducible.
 
-    -   In order to accomplish this the community would need to create a common DataMed central, CodeMed central and PubMed central where publishers/authors data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
+    -   In order to accomplish this the community would need to create a common DataMed central, CodeMed central and PubMed central where publishers data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
 
-The article makes it clear that even if a analysis is reproducible it does not guarantee the validity, quality and correctness even when it is published to others.
+The article makes it clear that even if a analysis is reproducible it does not guarantee validity, quality and correctness even when it is published to others.
 
 **"Do economics journal archives promote replicable research?", by @mccullough2008.**
 
@@ -49,7 +51,7 @@ Additionally, the article shows that editors will defend published work even if 
 
 **"Statistical Analysis and Reproducible Research", by @gentleman2004.**
 
-In the discussion on how R notebook can help meet the criteria of reproducibility Gentleman and Lang's definitions on compendium, code chunks and text chunks are used.
+In the discussion on how R Notebook can help meet the criteria of reproducibility Gentleman and Lang's definitions on compendium, code chunks and text chunks are used.
 
 > ***Compendium is both a container for the different elements that make up the document and its computations (i.e. text, code, data, ...), and as a means for distributing, managing and updating the collection.***
 
@@ -59,13 +61,15 @@ In the discussion on how R notebook can help meet the criteria of reproducibilit
 
 # Discussion
 
-This discussion contains three main parts based on the literature review:
+This discussion contains four main parts based on the literature review:
 
 1.  *Can R Notebook solve the problems surrounding reproducibility?*
 
 2.  *An example of "Code chunks" and "Text chunks" in R Notebook.*
 
-3.  *Do authors take imitative to publish reproducible papers or do they need to be forced?*
+3.  *Do authors take initiative to publish reproducible papers or do they need to be forced?*
+
+4. *Will the current focus and interest on reproducibility remain or will it decrease in the future?*
 
 **Can R Notebook solve the problems surrounding reproducibility?**
 
@@ -73,7 +77,7 @@ To meet the criteria of reproducibility computable documents is a solution. R No
 
 R Notebook have the following features:
 
-1.  Uses R markdown, collects all parts into one document
+1.  Uses R markdown, collects all parts of a study into one document
 2.  Codes goes through sequentially, but can also go through individually
 3.  Uses Latex - making it possible to write mathematics
 4.  Uses pandoc as a transformer - html. pdf. and word.
@@ -82,7 +86,7 @@ These feature is what makes the program a computable document as a working compe
 
 With the listed features R Notebook is a tool that can be used to be able to produce reproducible papers/studies. It is still important to keep in mind that one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes not to be made.
 
-To see R Notebook in context with Peng's "Reproducible Research in Computial Science" article, R Notebook can be used as a step to reach the goal of developing a culture that requires reproducibility in computational science. This by giving authors a system to provide data and code for everyone as it connects to free repositories. This proves that R Notebook is a great tool to reach the goals presented in the article, even if it can not guarantee for every paper/study using the program being reproducible.
+To see R Notebook in context with Peng's "Reproducible Research in Computial Science" article, R Notebook can be used as a step to reach the goal of developing a culture that requires reproducibility in computational science. This by giving authors a system to provide data and code for everyone as it connects to free repositories. This proves that R Notebook is a great tool to reach the goals presented in the article, even if it can not guarantee for every paper written in the program to be reproducible.
 
 .
 
@@ -94,7 +98,7 @@ To showcase R Notebook working as a compendium it can be demonstrated by present
 sessionInfo()
 ```
 
-This code chunk is put in the document to show which packages are being used in R Notebook as it is being written.
+This code chunk is put in the document to show which packages are being used in R Notebook as the paper is being written.
 
 In more advanced papers code chunks would show how the data is processed and the text chunks would be used to explain the results.
 
@@ -110,11 +114,17 @@ Many archives do not promote reproducibility, as it is proven that some authors 
 
 This article presents an issue in the field of economical studies regarding publishing reproducible and replicable articles. Therefor, it should be set stricter requirements forcing the authors to publish reproducible papers as there is not enough authors taking the initiative to do so.
 
+.
+
+**Will the current focus and interest on reproducibility remain or will it decrease in the future?**
+
+It is valid to question whether the current interest on reproducibility will remain in the future or if it will decrease. As mentioned in Rogers Peng's article "Reproducible Research in Computational Science", reproducibility is put as the bare minimum standard when evaluating published scientific findings. Reproducibility might not be enough as a minimum standard moving forward, as the technology further develops. It is likely to require more of the published scientific findings as Peng's article states that reproducibility still does not guarantee quality. 
+
+In McCullough's article "Do economics journal archives promote replicable research?", the lack of routines and control surrounding the standard of reproducibility and replicability is presented. The article indicates that there is a need for stricter requirements surrounding published scientific papers. As reproducibility has been the bare minimum standard for a while and there is still studies not meeting the requirement, the focus and interest on reproducibility will likely remain. When the standard is met in all published scientific papers a higher minimum standard can be developed. This will take time and therefor, the focus and interest on reproducibility will remain in the foreseeable future. 
+
 # Conclusion
 
-Susann:
-
-To conclude R Notebook is a computable document that has the features to be used as a tool to help with reproducibility. It gives authors support to publish reproducible research, but it can not guarantee it due to the possibility for human errors. For authors to be motivated to use the program, it would be efficient to have stricter data and code requirements in publishing archives. This would lead to the authors being forced to use programs such as R Notebook more actively and would be a help to the issue of reproducibility.
+To conclude R Notebook is a computable document that has the features to be used as a tool to help with reproducibility. It gives authors support to publish reproducible research, but it can not guarantee it due to the possibility for human errors. For authors to be motivated to use the program, it would be efficient to have stricter data and code requirements in publishing archives. This would lead to the authors being forced to use programs such as R Notebook more actively and would be a help to the issue of reproducibility, as it is seen to still be relevant in the future. 
 
 # References
 
