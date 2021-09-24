@@ -43,8 +43,7 @@ As the main goal presented in the article is to develop a culture that require r
 
 2.  The scientific community creates a single place for authors in all fields to make their studies reproducible.
 
-    -   In order to accomplish this the community would need to create a common *DataMed central,* *CodeMed central* and *PubMed central* where publishers data, metadata, and code can be stored with their studies.
-        This would require additional costs and would need to be coordinated and supported by the government.
+    -   In order to accomplish this the community would need to create a common *DataMed central,* *CodeMed central* and *PubMed central* where publishers data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
 
 The article makes it clear that even if a analysis is reproducible it does not guarantee validity, quality and correctness even when it is published to others.
 
@@ -100,7 +99,9 @@ R Notebook have the following features:
 4.  Uses pandoc as a transformer - html. pdf. and word.
 
 These feature is what makes the program a computable document as a working compendium, with working code and text chunks and the ability to transform.
-A computable document meaning the container for the different elements that make up a document and its computations [@gentleman2004]. These code chunks being sequences of commands in the programming language R [@gentleman2004]. With the possibility to the describe the code, the results and their interpretation with text chunks [@gentleman2004].
+A computable document meaning the container for the different elements that make up a document and its computations [@gentleman2004].
+These code chunks being sequences of commands in the programming language R [@gentleman2004].
+With the possibility to the describe the code, the results and their interpretation with text chunks [@gentleman2004].
 
 With the listed features R Notebook is a tool that can be used to be able to produce reproducible papers/studies.
 It is still important to keep in mind that one can not guarantee that each user of R Notebook creates reproducible research, as the program does not guarantee for human mistakes not to be made.
