@@ -39,11 +39,12 @@ As the main goal presented in the article is to develop a culture that require r
 
     -   This would make it possible to provide a minimum code as online material which would be informative, and could be used to reveal any potential problems.
 
-    -   The next step would be to be able to provide data-sets in durable non-proprietary format, but this would require additional costs.\
+    -   The next step would be to be able to provide data-sets in durable non-proprietary format, but this would require additional costs.
 
 2.  The scientific community creates a single place for authors in all fields to make their studies reproducible.
 
-    -   In order to accomplish this the community would need to create a common *DataMed central,* *CodeMed central* and *PubMed central* where publishers data, metadata, and code can be stored with their studies. This would require additional costs and would need to be coordinated and supported by the government.
+    -   In order to accomplish this the community would need to create a common *DataMed central,* *CodeMed central* and *PubMed central* where publishers data, metadata, and code can be stored with their studies.
+        This would require additional costs and would need to be coordinated and supported by the government.
 
 The article makes it clear that even if a analysis is reproducible it does not guarantee validity, quality and correctness even when it is published to others.
 
